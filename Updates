@@ -1,0 +1,8 @@
+Patching Runbook
+
+How patches are analyzed before deployment
+How patches are tested before deployment
+How patches are deployed
+How operational impact is evaluated before deploying patches
+How patching reports are created to show patch deployment/missing patches
+
