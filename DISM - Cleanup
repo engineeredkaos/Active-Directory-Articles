@@ -1,0 +1,11 @@
+Use Disk Cleanup to Delete Old Updates From the SxS Folder
+Open the Disk Cleanup tool. ... 
+Click the "Cleanup system files" button. 
+Check the box next to "Windows Update Cleanup." 
+Click OK. 
+Launch the command prompt with admin priviledges. ... 
+Enter the command: Dism.exe /online /Cleanup-Image /StartComponentCleanup. 
+Delete Software Distribution folder. ... Now browse to the C:\Windows\SoftwareDistribution folder and delete all the files and folders inside. You may press Ctrl+A to Select All and then click on Delete. If the files are in use, and you are unable to delete some files, restart your device.Feb 25, 2016
+Rename or delete Software Distribution folder in Windows 10/8/7
+
+https://www.thewindowsclub.com/software-distribution-folder-in-windows 
